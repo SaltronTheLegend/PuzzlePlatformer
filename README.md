@@ -1,4 +1,4 @@
-![image](https://github.com/SaltronTheLegend/PuzzlePlatformer/assets/81484699/656b7f39-2eb2-4a5c-96e8-1afcea75e7a9)# PuzzlePlatformer
+# PuzzlePlatformer
  Puzzle Platformer using UE5 and C++
 
  Images:
